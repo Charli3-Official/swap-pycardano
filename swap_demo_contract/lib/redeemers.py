@@ -1,5 +1,6 @@
-from pycardano import PlutusData
 from dataclasses import dataclass
+
+from pycardano import PlutusData
 
 
 @dataclass

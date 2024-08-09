@@ -1,0 +1,8 @@
+MNEMONIC_24:
+oracle_contract_address: addr_test1wz58xs5ygmjf9a3p6y3qzmwxp7cyj09zk90rweazvj8vwds4d703u
+swap_contract_address: addr_test1wrcraeyfdkurcz286jaq02hdj5krntc47074vky5j8suhpqew37jy
+blockfrost:
+  project_id:
+ogmios:
+  ws_url:
+  kupo_url:

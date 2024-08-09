@@ -166,3 +166,8 @@ debug.py
 # End of https://www.toptal.com/developers/gitignore/api/python
 **/.skey
 **/.vkey
+**/credentials/
+.python-version
+
+# config files
+config.yml

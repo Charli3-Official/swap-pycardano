@@ -143,7 +143,7 @@ The project has a command line interface to easily submit transactions. To acces
     options:
                        -h, --help            show this help message and exit
 
-    Copyrigth: (c) 2020 - 2023 Charli3
+    Copyrigth: (c) 2020 - 2024 Charli3
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
